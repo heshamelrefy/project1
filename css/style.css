@@ -1,0 +1,144 @@
+body {
+    font-family: 'Source Sans Pro', sans-serif;
+    
+    color: #787878;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+}
+.overcolor
+{
+    width: auto;
+    height: 80vh;
+    background-color: #09c;
+    position: relative;
+}
+.head1
+{
+    position: absolute;
+    top: 15%;
+    left: 8%;
+}
+.overcolor h1 
+{
+    font-size: 3.5rem;
+    font-weight: 300;
+    line-height: 1.2;
+    color: #28a745!important;
+}
+.overcolor input
+{
+    width: 75% !important;
+}
+.add-box
+{
+    width: 200px;
+    height: 20px;
+    background-color: #fff;
+    border: 1px solid gray;
+   
+}
+
+/* ---------------------------------------------------------------------------------------- */
+#wordcolor
+{
+    background-color: #fff;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#wordcolor h2
+{
+    color: #000;
+    font-size: 7rem;
+    line-height: 500px;
+}
+/* --------------------------------------------------------------------------------------------------- */
+.all-time
+{
+    text-align: center;
+    background-color: rgb(50, 158, 83);
+    height: 60vh;
+    margin-bottom: 50px;
+}
+.time-caption
+{
+    color: #fff;
+}
+.time-caption h2
+{
+    font-size: 3rem;
+    font-weight: 600;
+    padding: 60px 0px;
+}
+/* .time
+{
+
+} */
+#days
+{
+   width: 90px;
+   height: 90px;
+}
+#hours
+{
+   width: 90px;
+   height: 90px;
+}
+#mins
+{
+   width: 90px;
+   height: 90px;
+}
+#secs
+{
+   width: 90px;
+   height: 90px;
+}
+
+
+/* ---------------------------------------------------------------------------- */
+#colorR:hover 
+{
+    background-color: red ;
+
+}
+#colorG:hover 
+{
+    background-color: green ;
+
+}
+#colorB:hover 
+{
+    background-color: blue ;
+
+}
+#change
+{
+    margin-bottom: 80px;
+    
+}
+/* -------------------------------------------------------------------------------------- */
+
+.form-caption input
+{
+    margin-bottom: 10px;
+    width: 75%;
+}
+.form-caption textarea
+{
+    margin-bottom: 10px;
+    width: 75%;
+}
+.end
+{
+    position: relative;
+    left: 12%;
+}
+.end h3
+{
+    position: relative;
+    padding-left: 325px;
+}
+
